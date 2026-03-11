@@ -4,6 +4,11 @@
 ## Azure AI Foundry _(formerly Cognitive Services)_
 `Azure AI Foundry brings together models, tooling, and governance so you can scale AI with confidence.`
 * [Azure AI Foundry](https://ai.azure.com/) - ai.azure.com
+
+### YouTube
+* [Azure AI Foundry: The AI app and Agent Factory ~49 min](https://www.youtube.com/watch?v=DUdRdeUtuZQ) - Microsoft Developer
+
+
 ## Foundry Local
 * [What is Foundry Local](https://learn.microsoft.com/en-us/azure/ai-foundry/foundry-local/what-is-foundry-local?view=foundry-classic)
 * [Foundry Local](https://www.foundrylocal.ai/) ⭐ - foundrylocal.ai
