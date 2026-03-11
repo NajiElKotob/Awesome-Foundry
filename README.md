@@ -16,6 +16,11 @@
 * [Run local AI on any PC or Mac - Microsoft Foundry Local 📺 ~11min](https://www.youtube.com/watch?v=qL3HADDI6W4)
 * [Foundry Local (GitHub)](https://github.com/microsoft/Foundry-Local)
 
+
+# Labs
+## Develop generative AI apps in Azure
+1. [Prepare for an AI development project](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/Exercises/01-Explore-ai-studio.html)
+
 ## Certifications 🥇
 * [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification)
   - [Preparing for the AI-102 exam 📺](https://www.youtube.com/playlist?list=PLahhVEj9XNTffweBLSCgUcBIbMTdk45UT) - Microsoft Learn
