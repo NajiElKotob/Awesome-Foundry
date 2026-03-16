@@ -21,6 +21,7 @@
 ## Learn
 ### Study guide for the Applied Skills assessment lab
 * [Develop generative AI apps by using Azure AI Foundry portal](https://learn.microsoft.com/en-us/credentials/applied-skills/resources/study-guides/apl-3016)
+* [Develop generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/credentials/applied-skills/resources/study-guides/apl-3006?source=najielkotob)
 
 ## Labs
 ### Develop generative AI apps in Azure
