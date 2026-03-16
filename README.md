@@ -9,6 +9,8 @@
 * [Azure AI Foundry: The AI app and Agent Factory ~49 min](https://www.youtube.com/watch?v=DUdRdeUtuZQ) - Microsoft Developer
 
 
+-----
+
 ## Foundry Local
 * [What is Foundry Local](https://learn.microsoft.com/en-us/azure/ai-foundry/foundry-local/what-is-foundry-local?view=foundry-classic)
 * [Foundry Local](https://www.foundrylocal.ai/) ⭐ - foundrylocal.ai
@@ -16,9 +18,12 @@
 * [Run local AI on any PC or Mac - Microsoft Foundry Local 📺 ~11min](https://www.youtube.com/watch?v=qL3HADDI6W4)
 * [Foundry Local (GitHub)](https://github.com/microsoft/Foundry-Local)
 
+## Learn
+### Study guide for the Applied Skills assessment lab
+* [Develop generative AI apps by using Azure AI Foundry portal](https://learn.microsoft.com/en-us/credentials/applied-skills/resources/study-guides/apl-3016)
 
-# Labs
-## Develop generative AI apps in Azure
+## Labs
+### Develop generative AI apps in Azure
 1. [Prepare for an AI development project](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/Exercises/01-Explore-ai-studio.html)
 
 ## Certifications 🥇
