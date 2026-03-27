@@ -7,6 +7,7 @@
 
 ### YouTube
 * [Azure AI Foundry: The AI app and Agent Factory ~49 min](https://www.youtube.com/watch?v=DUdRdeUtuZQ) - Microsoft Developer
+* [Azure AI Foundry | Learn AI on Microsoft Azure](https://www.youtube.com/playlist?list=PLKN5-zCKJG7w-3gXIVptJV7sSi7fbQoBE) - Solved Systems
 
 
 -----
