@@ -30,6 +30,7 @@
 2. [Explore and compare models](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/Exercises/02-model-catalog-evaluation.html)
 
 ## Certifications 🥇
+* [AI-103: Developing AI Apps and Agents on Azure](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-103)
 * [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification)
   - [Preparing for the AI-102 exam 📺](https://www.youtube.com/playlist?list=PLahhVEj9XNTffweBLSCgUcBIbMTdk45UT) - Microsoft Learn | **will retire on June 30, 2026**
   - [Azure AI Engineer Associate Certification (AI-102) – Full Course to PASS the Exam](https://www.youtube.com/watch?v=scJ4mobwjBQ) - freeCodeCamp.org
